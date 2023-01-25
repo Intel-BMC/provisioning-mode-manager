@@ -1,3 +1,7 @@
+# DISCONTINUATION OF PROJECT #
+This project will no longer be maintained by Intel.
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.
+Intel no longer accepts patches to this project.
 # Provisioning Mode Manager
 This component is used to manage the `RestrictionMode` property under U-Boot
 environment variable using `u-boot-env-mgr`. This property determines the
